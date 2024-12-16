@@ -1,2 +1,2 @@
 # zula-hile
-zula smokecheats crecked kendi şahsıma aittir 
+öncelikle windows defenderi kapatın yani  güvenlik duvarını sonra dosyayı indirin  ve açın sonra içinde d3dref.dll diye bir dosya çıkacak o dosyayı masa üstünüze atın sonra zulanın dosya klasörünü açın ordan gameye basın çok az aşşaya inin sonra masa üstünüzdeki d3dref.dll yi gamenin içine atın  sonra kapatın oyuna girin insert tuşuna basınca menünüz gelecektir iyi oyunlar (asla alt tab çekmeyin ) oyun hata veriyor tekrar girmek zorunda kalırsınız
